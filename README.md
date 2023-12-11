@@ -1,4 +1,3 @@
-# projects
-Contains all projects
+# All Projects
 
 1. Flask Based Note Taking API - https://github.com/0210shivam/flask_notes_sample_api
